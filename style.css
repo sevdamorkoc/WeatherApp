@@ -5,9 +5,7 @@
   
   background-image: url("https://media.istockphoto.com/id/186701190/tr/foto%C4%9Fraf/double-rainbow-over-sea.jpg?s=612x612&w=0&k=20&c=Bz_tanSLE0LAbOlfCn7OW9WgvH2M4APdXGnVFFeb35A=");
     /* --bg_main: #0c6396; */
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
+    
     
     --text_light: rgb(15, 15, 15);
     --text_med: #bdc6d4;
