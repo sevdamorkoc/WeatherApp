@@ -8,6 +8,7 @@
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
+    
     --text_light: rgb(15, 15, 15);
     --text_med: #bdc6d4;
     --text_dark: #707a91;
@@ -59,6 +60,7 @@
     background: var(--bg_main);
     color: var(--text_dark);
     padding: 70px;
+    height: 100vh;
   }
   
   .container {
